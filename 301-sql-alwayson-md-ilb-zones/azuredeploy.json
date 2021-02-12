@@ -30,12 +30,13 @@
         "SQL2016SP1-WS2016",
         "SQL2016SP1-WS2016-BYOL",
         "SQL2017-WS2016",
-        "SQL2017-WS2016-BYOL"
+        "SQL2017-WS2016-BYOL",
+        "SQL2019-WS2019"
       ],
       "metadata": {
         "description": "VM Image Offer to use for provisioning SQL VMs"
       },
-      "defaultValue": "SQL2016SP1-WS2016"
+      "defaultValue": "SQL2019-WS2019"
     },
     "sqlVMImageSku": {
        "type": "string",
